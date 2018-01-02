@@ -1,4 +1,4 @@
-This is a python script was written for fun, you can use this in any way you choose.
+This python script was written for fun, you can use this in any way you choose.
 
 Things youll need 
   Selenium for Python
